@@ -1,0 +1,77 @@
+msgid "kyc3_verification_state_0"
+msgstr "unverified"
+
+msgid "kyc3_verification_state_1"
+msgstr "Verifying"
+
+msgid "kyc3_verification_state_2"
+msgstr "Verification Failed"
+
+msgid "kyc3_verification_state_3"
+msgstr "Verified"
+
+msgid "kyc3_verification_state_hint_1"
+msgstr "We will send you an SMS message once the verification is finished."
+
+msgid "kyc3_verification_state_hint_2"
+msgstr "Reasons of Failing"
+
+msgid "kyc3_verification_state_hint_3"
+msgstr "Congratulations, your verification is finished.\nYour daily withdrawal limit has increased to $25,000 and monthly withdrawal limit to $200,000."
+
+msgid "kyc3_failure_reason_0"
+msgstr "Invalid Residential Address."
+
+msgid "kyc3_failure_reason_1"
+msgstr "Invalid ID Document."
+
+msgid "kyc3_failure_reason_2"
+msgstr "Incorrect ID Document type."
+
+msgid "kyc3_failure_reason_3"
+msgstr "ID Document didn't match with the registration information."
+
+msgid "kyc3_failure_reason_4"
+msgstr "ID Document expired."
+
+msgid "kyc3_failure_reason_5"
+msgstr "ID Document wasn't clear to see."
+
+msgid "kyc3_failure_reason_6"
+msgstr "SSN Document didn't match with the registration information."
+
+msgid "kyc3_failure_reason_7"
+msgstr "SSN Document wasn't clear to see."
+
+msgid "kyc3_failure_reason_8"
+msgstr "Your photo didn't meet the requirements."
+
+msgid "kyc3_failure_reason_9"
+msgstr "Your photo wasn't clear to see."
+
+msgid "kyc3_failure_reason_10"
+msgstr "ID Document didn't match with your photo."
+
+msgid "kyc3_failure_reason_11"
+msgstr "ID Document used for another account's verification."
+
+msgid "kyc3_failure_reason_12"
+msgstr "Data Comparison Too Low"
+
+msgid "kyc3_failure_reason_13"
+msgstr "Validation Failure"
+
+msgid "kyc3_failure_reason_14"
+msgstr "Unclassified ID Document"
+
+msgid "kyc3_failure_reason_15"
+msgstr "Suspicious ID Document"
+
+msgid "kyc3_id_document_passport"
+msgstr "Passport"
+
+msgid "kyc3_id_document_driver_license"
+msgstr "Driver License"
+
+msgid "kyc3_id_document_identity_card"
+msgstr "Identity Card"

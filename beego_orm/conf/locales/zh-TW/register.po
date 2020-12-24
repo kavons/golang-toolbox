@@ -1,0 +1,5 @@
+msgid "success"
+msgstr "注冊成功"
+
+msgid "app_id_empty"
+msgstr "APP ID不能爲空"

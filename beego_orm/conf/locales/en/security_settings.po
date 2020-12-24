@@ -1,0 +1,126 @@
+
+msgid "reset_pin_forgotten_desc"
+msgstr "Change PIN-Code"
+
+msgid "reset_pin_forgotten_v2_desc"
+msgstr "Change PIN-Code"
+
+msgid "reset_pin_remembered_desc"
+msgstr "Change PIN-Code"
+
+msgid "tfa_bind_desc"
+msgstr "Link Google Authenticator"
+
+msgid "tfa_change_desc"
+msgstr "Change Google Authenticator"
+
+msgid "tfa_enable_desc"
+msgstr "Turn on Google Authenticator"
+
+msgid "tfa_disable_desc"
+msgstr "Turn off Google Authenticator"
+
+msgid "security_setting_state_success"
+msgstr "success"
+
+msgid "set_pwd_desc"
+msgstr "Set login password"
+
+msgid "change_pwd_desc"
+msgstr "Change login password"
+
+msgid "cancel_pwd_desc"
+msgstr "Cancel login password"
+
+msgid "reset_pwd_desc"
+msgstr "Reset login password"
+
+msgid "del_auth_dev_desc"
+msgstr "Delete Authorized Device"
+
+msgid "new_dev_auth_desc"
+msgstr "New Device Authorization"
+
+msgid "security_level_tips_low"
+msgstr "We strongly recommend opening %s for security reasons."
+
+msgid "security_level_tips_medium"
+msgstr "We recommend opening %s for further account security."
+
+msgid "security_level_tips_high"
+msgstr "Please keep protecting your account secure."
+
+msgid "security_scan_tips_line1"
+msgstr "available things to improve"
+msgid "security_scan_tips_line2_red"
+msgstr "Your account is not secure."
+msgid "security_scan_tips_line2_yellow"
+msgstr "Please make your account more secure."
+msgid "security_scan_tips_line2_green"
+msgstr "Your account is secure."
+
+msgid "security_level_item_kyc3"
+msgstr "Identity Verification"
+msgid "security_level_item_pwd"
+msgstr "Login Password"
+msgid "security_level_item_tfa"
+msgstr "Google Authenticator"
+msgid "security_level_item_waw"
+msgstr "Withdrawal Whitelist"
+msgid "security_level_item_waw_v2"
+msgstr "Whitelist & Address Management"
+msgid "security_level_item_passcode"
+msgstr "Passcode"
+msgid "security_level_item_pin6"
+msgstr "PIN-Code"
+
+msgid "security_level_item_kyc3_desc"
+msgstr "Increases withdrawal limit"
+msgid "security_level_item_pwd_desc"
+msgstr "2 factors authentication when login."
+msgid "security_level_item_tfa_desc"
+msgstr "2 factors authentication when withdraw."
+msgid "security_level_item_waw_desc"
+msgstr "When this function is turned on, your account will only be able to withdraw to whitelisted withdrawal addresses."
+msgid "security_level_item_passcode_desc"
+msgstr "Passcode  is required for 5 min absence."
+msgid "security_level_item_pin6_desc"
+msgstr "Using 6 digits is recommended"
+
+msgid "security_level_status_tfa_not_linked"
+msgstr "Not Linked"
+msgid "security_level_status_tfa_disabled"
+msgstr "Disabled"
+msgid "security_level_status_tfa_linked"
+msgstr "Linked"
+msgid "security_level_status_waw_true"
+msgstr "On"
+msgid "security_level_status_waw_false"
+msgstr "Off"
+msgid "security_level_status_pwd_true"
+msgstr "On"
+msgid "security_level_status_pwd_false"
+msgstr "Off"
+msgid "security_level_status_passcode_true"
+msgstr "On"
+msgid "security_level_status_passcode_false"
+msgstr "Off"
+msgid "security_level_status_pin6_true"
+msgstr "Set"
+msgid "security_level_status_pin6_false"
+msgstr "Upgrade"
+
+msgid "security_level_status_low"
+msgstr "Low"
+
+msgid "security_level_status_medium"
+msgstr "Medium"
+
+msgid "security_level_status_high"
+msgstr "High"
+
+msgid "enable_waw_desc"
+msgstr "Turn on Withdrawal Whitelist"
+
+msgid "disable_waw_desc"
+msgstr "Turn off Withdrawal Whitelist"

@@ -1,0 +1,26 @@
+msgid "first_deposit_title"
+msgstr "First Deposit Bonus"
+
+msgid "first_deposit_desc"
+msgstr "The first completed WON deposit worth 50 USD or more gives a 20% Ŵ bonus."
+
+msgid "cumulative_promotion_desc"
+msgstr "Deposit Event with 50 Ŵ for You to Earn! "
+
+msgid "cumulative_before_promotion_desc"
+msgstr "Time-limited event, deposit to get gift!"
+
+msgid "cumulative_promotion_countdown_desc"
+msgstr "Starts in %s"
+
+msgid "cumulative_promotion_reward_desc"
+msgstr "Rewards after event ends %s Ŵ"
+
+msgid "cumulative_promotion_incentive_desc"
+msgstr "Deposit $%s more to get additional %s Ŵ"
+
+msgid "acc_deposit_title"
+msgstr "Deposit Event is Ongoing!"
+
+msgid "acc_deposit_desc"
+msgstr "Deposit to get up to 50 Ŵ during the event period."

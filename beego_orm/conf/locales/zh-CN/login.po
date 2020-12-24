@@ -1,0 +1,11 @@
+msgid "success"
+msgstr "登陆成功"
+
+msgid "push_code_title"
+msgstr "验证码"
+
+msgid "push_code_content"
+msgstr "请在网页端输入以下验证码登录。"
+
+msgid "register_reward_desc"
+msgstr "感谢您注册成为WON用戶，为此我们赠送您%s枚Ŵ币！"

@@ -1,0 +1,24 @@
+msgid "login|success"
+msgstr "Success"
+
+msgid "login|fail"
+msgstr "Failed"
+
+msgid "login|online"
+msgstr "Online"
+
+
+msgid "state|err_20027"
+msgstr "Failed (SMS verification failed）"
+
+msgid "state|err_21006"
+msgstr "Failed (SMS verification failed）"
+
+msgid "state|err_10306"
+msgstr "Failed (SMS verification failed）"
+
+msgid "state|err_50014"
+msgstr "Failed (Password verification failed）"
+
+msgid "state|err_23004"
+msgstr "Failed (Device authorization failed）"

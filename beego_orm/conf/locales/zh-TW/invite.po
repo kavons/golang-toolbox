@@ -1,0 +1,59 @@
+msgid "user_status_Invalid"
+msgstr "無效"
+
+msgid "user_status_Expired"
+msgstr "過期"
+
+msgid "user_status_Valid"
+msgstr "有效"
+
+msgid "title"
+msgstr "邀請好友註冊，暢享高達40%返佣！"
+
+msgid "new_title"
+msgstr "邀請好友註冊\n暢享高達40%返佣！"
+
+msgid "description"
+msgstr "邀請越多獎勵越多，佣金無上限！"
+
+msgid "remarks"
+msgstr "佣金率：%s"
+
+msgid "invite_msg"
+msgstr "你好，我正在使用WON，這是一個全球內都合法合規的平臺。在你注册并完成一笔不低于$50的交易，你我都能获得5枚WON的奖励。"
+
+msgid "invite_msg_h5_new_user"
+msgstr "感謝你的註冊，你已經獲得了$1 Ŵ的獎勵，立刻下載並使用WON，獲取更多的邀請獎勵。"
+
+msgid "invite_msg_h5_old_user"
+msgstr "你已經成功註冊，立刻使用WON，獲取更多的邀請獎勵。"
+
+msgid "invite_rule_line_1"
+msgstr "1.被邀請人成功註冊帳號，邀請人和被邀請人各獲得$1 Ŵ。"
+
+msgid "invite_rule_line_2"
+msgstr "2.被邀請人自註冊90天內達到HODLer 2級，邀請人和被邀請人各獲得$5 Ŵ。"
+
+msgid "invite_rule_line_3"
+msgstr "3.被邀請人自註冊90天內達到HODLer 3級，邀請人和被邀請人各獲得$10 Ŵ。"
+
+msgid "invite_rule_line_4"
+msgstr "4.被邀請人自註冊90天內達到HODLer 4級，邀請人和被邀請人各獲得$15 Ŵ。"
+
+msgid "invite_rule_line_5"
+msgstr "5.被邀請人自註冊90天內達到HODLer 5級，邀請人和被邀請人各獲得$20 Ŵ。"
+
+msgid "invite_rule_line_6"
+msgstr "6.被邀請人自註冊90天內達到HODLer 6級，邀請人和被邀請人各獲得$50 Ŵ。"
+
+msgid "invite_rule_line_7"
+msgstr "7.邀請人享受好友HODler升級獎勵有效時長90個自然日，以被邀請人實際註冊的時間開始進行計算。"
+
+msgid "invite_rule_line_8"
+msgstr "8.被邀請人達到相應HODLer等級，邀請人和被邀請人立刻獲得該等級的邀請獎勵。"
+
+msgid "invite_rule_line_9"
+msgstr "9.如被邀請人違反相應的規則，被邀請人的邀請狀態變成【無效】，無效帳號升級HODLer等級產生的獎勵費用不會發放。"
+
+msgid "invite_rule_line_10"
+msgstr "活動如有調整，以1WON.com更新為准，最終解釋權歸1WON.com。"

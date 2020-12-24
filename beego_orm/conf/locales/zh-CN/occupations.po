@@ -1,0 +1,290 @@
+msgid "occ_0"
+msgstr "Other"
+
+msgid "occ_1"
+msgstr "Account Manager"
+
+msgid "occ_2"
+msgstr "Accountant"
+
+msgid "occ_3"
+msgstr "Actor"
+
+msgid "occ_4"
+msgstr "Administrator"
+
+msgid "occ_5"
+msgstr "Analyst"
+
+msgid "occ_6"
+msgstr "Architect"
+
+msgid "occ_7"
+msgstr "Artist"
+
+msgid "occ_8"
+msgstr "Associate"
+
+msgid "occ_9"
+msgstr "Attorney"
+
+msgid "occ_10"
+msgstr "Auditor"
+
+msgid "occ_11"
+msgstr "Banker"
+
+msgid "occ_12"
+msgstr "Barista"
+
+msgid "occ_13"
+msgstr "Bartender"
+
+msgid "occ_14"
+msgstr "Broker"
+
+msgid "occ_15"
+msgstr "Business Development"
+
+msgid "occ_16"
+msgstr "Business Owner"
+
+msgid "occ_17"
+msgstr "Carpenter"
+
+msgid "occ_18"
+msgstr "Cashier"
+
+msgid "occ_19"
+msgstr "Chief Executive Officer"
+
+msgid "occ_20"
+msgstr "Chief Financial Officer"
+
+msgid "occ_21"
+msgstr "Chief Operating Officer"
+
+msgid "occ_22"
+msgstr "Chief Risk Officer"
+
+msgid "occ_23"
+msgstr "Chief Technology Officer"
+
+msgid "occ_24"
+msgstr "Civil Engineer"
+
+msgid "occ_25"
+msgstr "Cleaner"
+
+msgid "occ_26"
+msgstr "Construction Worker"
+
+msgid "occ_27"
+msgstr "Contractor"
+
+msgid "occ_28"
+msgstr "Contractor"
+
+msgid "occ_29"
+msgstr "Cook Chef"
+
+msgid "occ_30"
+msgstr "Counselor"
+
+msgid "occ_31"
+msgstr "Customer Service"
+
+msgid "occ_32"
+msgstr "Data Scientist"
+
+msgid "occ_33"
+msgstr "Dentist"
+
+msgid "occ_34"
+msgstr "Designer"
+
+msgid "occ_35"
+msgstr "Director"
+
+msgid "occ_36"
+msgstr "Driver"
+
+msgid "occ_37"
+msgstr "Electrician"
+
+msgid "occ_38"
+msgstr "Entertainer"
+
+msgid "occ_39"
+msgstr "Farmer"
+
+msgid "occ_40"
+msgstr "Financial Advisor"
+
+msgid "occ_41"
+msgstr "Financial Analyst"
+
+msgid "occ_42"
+msgstr "Founder Co-Founder"
+
+msgid "occ_43"
+msgstr "Freelancer"
+
+msgid "occ_44"
+msgstr "Information Technology"
+
+msgid "occ_45"
+msgstr "Insurance Agent"
+
+msgid "occ_46"
+msgstr "Intern"
+
+msgid "occ_47"
+msgstr "Investor"
+
+msgid "occ_48"
+msgstr "Laborer"
+
+msgid "occ_49"
+msgstr "Landscaper"
+
+msgid "occ_50"
+msgstr "Law Enforcement Officer"
+
+msgid "occ_51"
+msgstr "Lifeguard"
+
+msgid "occ_52"
+msgstr "Manager Supervisor"
+
+msgid "occ_53"
+msgstr "Managing Director"
+
+msgid "occ_54"
+msgstr "Marketer"
+
+msgid "occ_55"
+msgstr "Mechanic"
+
+msgid "occ_56"
+msgstr "Military"
+
+msgid "occ_57"
+msgstr "Miner"
+
+msgid "occ_58"
+msgstr "Musician"
+
+msgid "occ_59"
+msgstr "Network Engineer"
+
+msgid "occ_60"
+msgstr "Nurse"
+
+msgid "occ_61"
+msgstr "Office Manager"
+
+msgid "occ_62"
+msgstr "Operations Manager"
+
+msgid "occ_63"
+msgstr "Partner"
+
+msgid "occ_64"
+msgstr "Personal Trainer"
+
+msgid "occ_65"
+msgstr "Pharmacist"
+
+msgid "occ_66"
+msgstr "Photographer"
+
+msgid "occ_67"
+msgstr "Physician"
+
+msgid "occ_68"
+msgstr "Pilot"
+
+msgid "occ_69"
+msgstr "Plumber"
+
+msgid "occ_70"
+msgstr "Portfolio Manager"
+
+msgid "occ_71"
+msgstr "President"
+
+msgid "occ_72"
+msgstr "Principal"
+
+msgid "occ_73"
+msgstr "Producer"
+
+msgid "occ_74"
+msgstr "Product Manager"
+
+msgid "occ_75"
+msgstr "Professor"
+
+msgid "occ_76"
+msgstr "Program Manager"
+
+msgid "occ_77"
+msgstr "Project Manager"
+
+msgid "occ_78"
+msgstr "Property Manager"
+
+msgid "occ_79"
+msgstr "Psychologist"
+
+msgid "occ_80"
+msgstr "Realtor"
+
+msgid "occ_81"
+msgstr "Recruiter"
+
+msgid "occ_82"
+msgstr "Researcher"
+
+msgid "occ_83"
+msgstr "Retail"
+
+msgid "occ_84"
+msgstr "Salesperson"
+
+msgid "occ_85"
+msgstr "Scientist"
+
+msgid "occ_86"
+msgstr "Secretary"
+
+msgid "occ_87"
+msgstr "Software Engineer"
+
+msgid "occ_88"
+msgstr "Student"
+
+msgid "occ_89"
+msgstr "Systems Engineer"
+
+msgid "occ_90"
+msgstr "Teacher"
+
+msgid "occ_91"
+msgstr "Technician"
+
+msgid "occ_92"
+msgstr "Trader"
+
+msgid "occ_93"
+msgstr "Vice President"
+
+msgid "occ_94"
+msgstr "Waiter Waitress"
+
+msgid "occ_95"
+msgstr "Web Designer"
+
+msgid "occ_96"
+msgstr "Writer"

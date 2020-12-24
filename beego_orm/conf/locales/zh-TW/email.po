@@ -1,0 +1,5 @@
+msgid "subject_bind_email"
+msgstr "您正在嘗試【綁定郵箱驗證】。"
+
+msgid "body_bind_email"
+msgstr "您好：\r\n\r\n【WON】安全項設置驗證碼：%s，您正在嘗試【綁定郵箱驗證】，該驗證碼將於30分鐘後失效。驗證碼僅用於WON官網，如果非本人操作，請不要在任何地方輸入該驗證碼！\r\n\r\n為防止非法詐騙，請勿將帳號、驗證碼在除官網外任何其他第三方網站輸入。\r\n\r\nWON團隊\r\n\r\nhttps://www.1won.com"

@@ -1,0 +1,11 @@
+msgid "remind_title"
+msgstr "恭喜"
+
+msgid "remind_desc"
+msgstr "您升到了 <span style=\"color:#678fed\">HODLer %d</span> 級，並且獲得了以下權益："
+
+msgid "wthdraw_inc"
+msgstr "提幣上限增加%d%%"
+
+msgid "title"
+msgstr "HODLer 等級 %d"

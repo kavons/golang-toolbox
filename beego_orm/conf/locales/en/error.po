@@ -1,0 +1,656 @@
+msgid "err_10009"
+msgstr "Can not find app info by client_id"
+
+msgid "err_11000"
+msgstr "Payment error"
+
+msgid "err_11003"
+msgstr "Payment error"
+
+msgid "err_11008"
+msgstr "Parameter tx_id is missing"
+
+msgid "err_11009"
+msgstr "Payment failure for invalid transaction state"
+
+msgid "err_10300"
+msgstr "Login failed"
+
+msgid "err_10301"
+msgstr "You haven't logged in yet"
+
+msgid "err_10302"
+msgstr "Sending mail failed"
+
+msgid "err_10303"
+msgstr "The Phone number is incorrect"
+
+msgid "err_10304"
+msgstr "Sending verification code failed"
+
+msgid "err_10305"
+msgstr "The verification code is already used"
+
+msgid "err_10306"
+msgstr "SMS verification failed. Please try again"
+
+msgid "err_10307"
+msgstr "Activating mobile phone failed. Please try again later"
+
+msgid "err_10308"
+msgstr "Updating KYC failed. Please try again later"
+
+msgid "err_10401"
+msgstr "邮箱格式不对"
+
+msgid "err_10402"
+msgstr "密码必须是大小写字母+数字+特殊字符, 6-64位"
+
+msgid "err_10403"
+msgstr "Email exist."
+
+msgid "err_10404"
+msgstr "系统hash错误"
+
+msgid "err_10405"
+msgstr "数据库错误, 注册失败"
+
+msgid "err_10501"
+msgstr "User is not exists!"
+
+msgid "err_10502"
+msgstr "Password is not correct!"
+
+msgid "err_10601"
+msgstr "用户还未登陆"
+
+msgid "err_10602"
+msgstr "授权key验证失败"
+
+msgid "err_20000"
+msgstr "Required parameters are invalid"
+
+msgid "err_20001"
+msgstr "Third party application does not exist"
+
+msgid "err_20002"
+msgstr "Update database error"
+
+msgid "err_20003"
+msgstr "Jwt token can not be generated"
+
+msgid "err_20004"
+msgstr "Invalid jwt token"
+
+msgid "err_20005"
+msgstr "Parameter first_name is missing"
+
+msgid "err_20006"
+msgstr "Parameter last_name is missing"
+
+msgid "err_20007"
+msgstr "Parameter birth_date is missing"
+
+msgid "err_20008"
+msgstr "Parameter client_id is missing"
+
+msgid "err_20009"
+msgstr "Parameter tx_id is missing"
+
+msgid "err_20010"
+msgstr "Peatio special APIs"
+
+msgid "err_20011"
+msgstr "Parameter country_code is missing"
+
+msgid "err_20012"
+msgstr "Parameter username is missing"
+
+msgid "err_20013"
+msgstr "Parameter password is invalid"
+
+msgid "err_20014"
+msgstr "Parameter public_key is missing"
+
+msgid "err_20015"
+msgstr "Parameter sign is missing"
+
+msgid "err_20016"
+msgstr "Parameter pin_code is missing"
+
+msgid "err_20017"
+msgstr "Update client public key error"
+
+msgid "err_20018"
+msgstr "Can not fetch client public key"
+
+msgid "err_20019"
+msgstr "Decrypt error using client public key"
+
+msgid "err_20020"
+msgstr "Decrypt error using server private key"
+
+msgid "err_20021"
+msgstr "Update PIN Code error"
+
+msgid "err_20022"
+msgstr "Can not fetch PIN Code"
+
+msgid "err_20023"
+msgstr "Invalid country code"
+
+msgid "err_20024"
+msgstr "Invalid phone number"
+
+msgid "err_20025"
+msgstr "Can not send sms code"
+
+msgid "err_20026"
+msgstr "The verification code has expired. Please obtain a new one"
+
+msgid "err_20027"
+msgstr "SMS verification failed. Please try again"
+
+msgid "err_20028"
+msgstr "Parameter pin_token is missing"
+
+msgid "err_20029"
+msgstr "Parameter user_id is missing"
+
+msgid "err_20030"
+msgstr "Parameter sms_code is missing"
+
+msgid "err_20031"
+msgstr "Parameter pay_method is missing or invalid"
+
+msgid "err_20032"
+msgstr "Parameter fingerprint is missing"
+
+msgid "err_20033"
+msgstr "Encrypt error using client public key"
+
+msgid "err_20034"
+msgstr "Parameter old_pin_code is missing"
+
+msgid "err_20035"
+msgstr "Parameter new_pin_code is missing"
+
+msgid "err_20036"
+msgstr "Disable jwt token failed"
+
+msgid "err_20037"
+msgstr "Parameter mesh is missing"
+
+msgid "err_20038"
+msgstr "Parameter app_sign is missing"
+
+msgid "err_20039"
+msgstr "Parameter device_id is missing"
+
+msgid "err_20040"
+msgstr "Parameter sdk is missing"
+
+msgid "err_20041"
+msgstr "Parameter version is missing"
+
+msgid "err_20042"
+msgstr "Parameter flavor is missing"
+
+msgid "err_20043"
+msgstr "Cache fault"
+
+msgid "err_20044"
+msgstr "Parameter refresh_token is missing"
+
+msgid "err_20045"
+msgstr "Update pin salt error"
+
+msgid "err_20046"
+msgstr "Pin code MD5 created failed"
+
+msgid "err_20047"
+msgstr "Invalid internal address"
+
+msgid "err_20048"
+msgstr "Query database failed"
+
+msgid "err_20049"
+msgstr "Parameter activation_code is missing"
+
+msgid "err_20050"
+msgstr "Parameter app_uid is missing"
+
+msgid "err_20051"
+msgstr "Parameter trans_id is missing"
+
+msgid "err_20052"
+msgstr "Rabbitmq sent failed"
+
+msgid "err_20053"
+msgstr "Parameter pee is missing"
+
+msgid "err_20054"
+msgstr "Sorry"
+
+msgid "err_20060"
+msgstr "No data found"
+
+msgid "err_21001"
+msgstr "User register failure"
+
+msgid "err_21002"
+msgstr "Can not find user information"
+
+msgid "err_21003"
+msgstr "Illegal US State Address"
+
+msgid "err_21004"
+msgstr "Can not find user's identity info"
+
+msgid "err_21005"
+msgstr "Customer authorize failed"
+
+msgid "err_21006"
+msgstr "SMS verification failed. Please try again"
+
+msgid "err_21007"
+msgstr "User does not exist"
+
+msgid "err_21008"
+msgstr "Please input first name!"
+
+msgid "err_21009"
+msgstr "Please input last name!"
+
+msgid "err_21010"
+msgstr "Invalid birth date"
+
+msgid "err_21011"
+msgstr "Can not generate invite token"
+
+msgid "err_21012"
+msgstr "Invalid invite token"
+
+msgid "err_21013"
+msgstr "Invalid invite code"
+
+msgid "err_21014"
+msgstr "Can not invite yourself"
+
+msgid "err_21015"
+msgstr "Invited already"
+
+msgid "err_21016"
+msgstr "Can not generate invite url"
+
+msgid "err_21017"
+msgstr "Refresh token verified failed"
+
+msgid "err_21018"
+msgstr "Too many SMS verification errors. Please try again later."
+
+msgid "err_21019"
+msgstr "The phone number is suspended for security reasons. Please contact customer support for further help"
+
+msgid "err_21020"
+msgstr "Unusual SMS verification. Please contact customer support."
+
+msgid "err_21021"
+msgstr "You were sending too many SMS messages. Please try again later."
+
+msgid "err_21022"
+msgstr "The phone number is suspended due to frequent logins. Please contact customer support for further help"
+
+msgid "err_21023"
+msgstr "Too many attempts, please try again later."
+
+msgid "err_21024"
+msgstr "The device is suspended due to spamming with too many phone numbers. Please contact customer support for further help"
+
+msgid "err_21025"
+msgstr "Sorry, for the protection of your rights and interests, the service is not available to citizens under the age of 18"
+
+msgid "err_21026"
+msgstr "Sorry, reCaptcha Verification Needed"
+
+msgid "err_21027"
+msgstr "You were sending too many SMS messages. Please contact customer support."
+
+msgid "err_22001"
+msgstr "Info of third party application not found"
+
+msgid "err_22002"
+msgstr "Third party authorize failed"
+
+msgid "err_22003"
+msgstr "Third party identity mismatch with current user"
+
+msgid "err_23001"
+msgstr "Transaction not found"
+
+msgid "err_23002"
+msgstr "Charge failure for invalid transaction state"
+
+msgid "err_23003"
+msgstr "Charge failure finally"
+
+msgid "err_23004"
+msgstr "Incorrect PIN-Code!"
+
+msgid "err_23005"
+msgstr "Invalid fingerprint sign parameter"
+
+msgid "err_23006"
+msgstr "Invalid client signature"
+
+msgid "err_23007"
+msgstr "Client mismatch with transaction"
+
+msgid "err_23008"
+msgstr "Sorry, we can't provide service in your country. We will notify you when we add support for your country!"
+
+msgid "err_23009"
+msgstr "Sorry, we can't provide service for your account!"
+
+msgid "err_23010"
+msgstr "Sorry, In accordance with General Data Protection Regulation (GDPR), you are prohibited from depositing or withdrawing any crypto currencies. You can find more details here"
+
+msgid "err_23011"
+msgstr "Please pass the Address and IDs Verification before making any payment."
+
+msgid "err_24001"
+msgstr "SMS verification failed. Please try again"
+
+msgid "err_24002"
+msgstr "Can not generate pin token"
+
+msgid "err_24003"
+msgstr "Pin token verified failure"
+
+msgid "err_24004"
+msgstr "Sms code is required to be verified"
+
+msgid "err_24005"
+msgstr "Identity is required to be verified"
+
+msgid "err_24006"
+msgstr "Can not generate fingerprint token"
+
+msgid "err_24007"
+msgstr "Fingerprint verified failure, please reset and have a try"
+
+msgid "err_24008"
+msgstr "Pin code can not be reset because it's not set ever"
+
+msgid "err_24009"
+msgstr "Finger print is never set"
+
+msgid "err_24010"
+msgstr "Please input a different PIN-Code!"
+
+msgid "err_24011"
+msgstr "Your verification is suspended because you input wrong PIN code for too many times!"
+
+msgid "err_24012"
+msgstr "Invalid sms pee parameter"
+
+msgid "err_24013"
+msgstr "The phone number is suspended due to frequent PIN changes. Please contact customer support for further help"
+
+msgid "err_24014"
+msgstr "Can not generate transaction token"
+
+msgid "err_24015"
+msgstr "Invalid trading pin verify mode"
+
+msgid "err_24016"
+msgstr "Transaction token verified failure"
+
+msgid "err_24017"
+msgstr "Please input pin code or fingerprint to verify"
+
+msgid "err_24018"
+msgstr "Can not generate Pay token"
+
+msgid "err_25001"
+msgstr "Invalid BTC address"
+
+msgid "err_25002"
+msgstr "Invalid address"
+
+msgid "err_25003"
+msgstr "Create btc address failed"
+
+msgid "err_25004"
+msgstr "Create btc address index error"
+
+msgid "err_26001"
+msgstr "Bad ip address and can not add new version"
+
+msgid "err_26002"
+msgstr "Specified upgrade version not found"
+
+msgid "err_26003"
+msgstr "Latest upgrade version not found"
+
+msgid "err_26004"
+msgstr "Add new upgrade version failed"
+
+msgid "err_26005"
+msgstr "Add bad upgrade version failed"
+
+msgid "err_26006"
+msgstr "This version must be upgraded"
+
+msgid "err_26007"
+msgstr "Invalid version format"
+
+msgid "err_27001"
+msgstr "Activation codes too more or too less"
+
+msgid "err_27002"
+msgstr "Invalid activation code."
+
+msgid "err_27003"
+msgstr "Already activated"
+
+msgid "err_28001"
+msgstr "Login rewards failed"
+
+msgid "err_28002"
+msgstr "Invalid login rewards start time configuration"
+
+msgid "err_29001"
+msgstr "No available currency"
+
+msgid "err_29002"
+msgstr "No usd price for won"
+
+msgid "err_29003"
+msgstr "Not enough orders in the market"
+
+msgid "err_29004"
+msgstr "Balance not enough"
+
+msgid "err_29005"
+msgstr "Order created failed"
+
+msgid "err_29006"
+msgstr "Order time out"
+
+msgid "err_29007"
+msgstr "Transfer failed"
+
+msgid "err_29008"
+msgstr "No usd price for btc"
+
+msgid "err_29009"
+msgstr "No btc price for won"
+
+msgid "err_29010"
+msgstr "No won price for top"
+
+msgid "err_30001"
+msgstr "Save identification photo file failed"
+
+msgid "err_30002"
+msgstr "Saved kyc3 document info missing"
+
+msgid "err_30003"
+msgstr "kyc3 document MD5 verified failed"
+
+msgid "err_20061"
+msgstr "Convert to struct failed"
+
+msgid "err_20062"
+msgstr "Convert to json failed"
+
+msgid "err_20063"
+msgstr "Action already confirmed"
+
+msgid "err_20064"
+msgstr "Insert database failed"
+
+msgid "err_20065"
+msgstr "Invalid action type"
+
+msgid "err_20066"
+msgstr "Invalid loginhistory type"
+
+msgid "err_40001"
+msgstr "First name is empty"
+
+msgid "err_40002"
+msgstr "Last name is empty"
+
+msgid "err_40003"
+msgstr "First name and last name are empty"
+
+msgid "err_40004"
+msgstr "Member info is redundant"
+
+msgid "err_50001"
+msgstr "Invalid signature information"
+
+msgid "err_50002"
+msgstr "Can not generate security token"
+
+msgid "err_50003"
+msgstr "Security token verified failure"
+
+msgid "err_50004"
+msgstr "Invalid Email Address"
+
+msgid "err_50005"
+msgstr "Can not send email code"
+
+msgid "err_50006"
+msgstr "Can not generate post security token"
+
+msgid "err_50007"
+msgstr "Post security token verified failure"
+
+msgid "err_50008"
+msgstr "PIN code is empty"
+
+msgid "err_50009"
+msgstr "SMS code is empty"
+
+msgid "err_50010"
+msgstr "Security policy mismatch"
+
+msgid "err_50011"
+msgstr "KYC1 can not be empty"
+
+msgid "err_50012"
+msgstr "Identity information does not match."
+
+msgid "err_50013"
+msgstr "Login password is empty"
+
+msgid "err_50014"
+msgstr "Incorrect Login Password!"
+
+msgid "err_50015"
+msgstr "Login password already set"
+
+msgid "err_50016"
+msgstr "Login password not set"
+
+msgid "err_50017"
+msgstr "Business unavailable"
+
+msgid "err_60001"
+msgstr "Google Authenticator already bound"
+
+msgid "err_60002"
+msgstr "Incorrect Google Authenticator code "
+
+msgid "err_60003"
+msgstr "need create Google Authenticator first"
+
+msgid "err_60004"
+msgstr "Google Authenticator unbound"
+
+msgid "err_60005"
+msgstr "Google Authenticator disabled"
+
+msgid "err_60006"
+msgstr "need create new Google Authenticator first"
+
+msgid "err_60007"
+msgstr "need bound Google Authenticator first"
+
+msgid "err_60008"
+msgstr "Google Authenticator code is empty"
+
+msgid "err_70001"
+msgstr "Verify password sign failed"
+
+msgid "err_70002"
+msgstr "Too many login password errors. Please try again later. "
+
+msgid "err_70003"
+msgstr "Unusual login password verification. Please contact customer support."
+
+msgid "err_80001"
+msgstr "Withdraw whitelist not enabled"
+
+msgid "err_80002"
+msgstr "Withdraw whitelist already enabled"
+
+msgid "err_80003"
+msgstr "Not in withdraw address list"
+
+msgid "err_80004"
+msgstr "Not all IDs can be added"
+
+msgid "err_80005"
+msgstr "Not all IDs can be removed"
+
+msgid "err_90001"
+msgstr "Delete api key failed"
+
+msgid "err_90002"
+msgstr "IP Address is invalid"
+
+msgid "err_90003"
+msgstr "There should be 5 API Key at most."
+
+msgid "err_90004"
+msgstr "Each key can bind 10 IP addresses maximum."
+
+msgid "err_90005"
+msgstr "Please bind the IP address to enable withdrawal permission."
+
+msgid "err_91001"
+msgstr "Up to 10 price alerts can be set for one trading pair."
+
+msgid "err_91002"
+msgstr "price alert switch is disabled."
+
+msgid "err_92001"
+msgstr "security pay token cannot be empty."
+
+msgid "err_92002"
+msgstr "security pay token verify failed."

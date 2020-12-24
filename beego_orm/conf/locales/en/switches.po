@@ -1,0 +1,19 @@
+
+msgid "transaction_notification"
+msgstr "Transaction Notification"
+
+msgid "deposit_withdrawal_notification"
+msgstr "Deposit & Withdrawal Notification"
+
+msgid "custom_price_alerts"
+msgstr "Custom Price Alerts "
+
+
+msgid "market_price_notification"
+msgstr "Market Price Notification"
+
+msgid "event_notification"
+msgstr "Event Notification"
+
+msgid "total_value_changes_notification"
+msgstr "Total Value Changes Notification"

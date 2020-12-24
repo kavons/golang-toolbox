@@ -1,0 +1,132 @@
+exchange:
+  trade:
+    name: peatio.trade
+    type: headers
+  notification:
+    name: peatio.notification
+    type: direct
+  orderbook:
+    name: peatio.orderbook
+    type: fanout
+  maxwell:
+    name: maxwell
+    type: fanout
+  depositaccepted:
+    name: deposit.accepted
+    type: fanout
+
+queue:
+  matching:
+    name: peatio.matching
+    durable: true
+  slave_book:
+    name: peatio.orderbook.slave
+    durable: true
+  new_trade:
+    name: peatio.trade.new
+    durable: true
+  order_processor:
+    name: peatio.order.processor
+    durable: true
+  market_ticker:
+    name: peatio.trade.market_ticker
+  pusher_market:
+    name: peatio.pusher.market
+  pusher_member:
+    name: peatio.pusher.member
+  withdraw_coin:
+    name: peatio.withdraw.coin
+    durable: true
+  withdraw_notice:
+    name: peatio.withdraw.notice
+    durable: true
+  deposit_coin:
+    name: peatio.deposit.coin
+    durable: true
+  deposit_coin_recover:
+    name: peatio.deposit.coin.recover
+    durable: true
+  ga_tracking:
+    name: ga_tracking
+    durable: true
+  ofac_aml:
+    name: fac_aml
+    durable: true
+  won_kyc:
+    name: peatio.won_kyc
+    durable: true
+  sms:
+    name: peatio.notification.sms
+    durable: true
+  maxwell:
+    name: maxwell
+    durable: true
+  deposit_notice:
+    name: peatio.deposit.notice
+    durable: true
+  deposit_cumulative_reward:
+    name: peatio.deposit.cumulative.reward
+    durable: true
+  deposit_first_reward:
+    name: peatio.deposit.first.reward
+    durable: true
+  id_documents_monitor:
+    name: id_documents_monitor
+    durable: true
+
+binding:
+  matching:
+    queue: matching
+    clean_start: true
+  slave_book:
+    queue: slave_book
+    exchange: orderbook
+  trade_executor:
+    queue: new_trade
+  order_processor:
+    queue: order_processor
+  market_ticker:
+    queue: market_ticker
+    exchange: trade
+  pusher_market:
+    queue: pusher_market
+    exchange: trade
+  pusher_member:
+    queue: pusher_member
+  withdraw_coin:
+    queue: withdraw_coin
+  withdraw_notice:
+    queue: withdraw_notice
+  deposit_coin:
+    queue: deposit_coin
+  deposit_coin_recover:
+    queue: deposit_coin_recover
+  ga_tracking:
+    queue: ga_tracking
+  ofac_aml:
+    queue: ofac_aml
+  won_kyc:
+    queue: won_kyc
+  sms_notification:
+    queue: sms
+    exchange: notification
+  maxwell:
+    queue: maxwell
+    exchange: maxwell
+  deposit_notice:
+    queue: deposit_notice
+    exchange: depositaccepted
+  deposit_cumulative_reward:
+    queue: deposit_cumulative_reward
+    exchange: depositaccepted
+  deposit_first_reward:
+    queue: deposit_first_reward
+    exchange: depositaccepted
+  id_documents_monitor:
+    queue: id_documents_monitor
+
+channel:
+  trade_executor:
+    prefetch: 5
+  order_processor:
+    prefetch: 5

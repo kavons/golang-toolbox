@@ -1,0 +1,24 @@
+[servers]
+  # You can indent as you please. Tabs or spaces. TOML don't care.
+  [servers.alpha]
+  ip = "10.0.0.1"
+  dc = "eqdc10"
+
+  [servers.beta]
+  ip = "10.0.0.2"
+  dc = "eqdc10"
+
+[clients]
+  [[clients.clients]]
+    name = "handshake"
+    protoName = "brpc"
+    etcdAddrs = ["http://127.0.0.1:2379"]
+    addrList = ["127.0.0.1:10005"]
+    balancer = "random"
+
+    [[clients.clients]]
+    name = "session"
+    protoName = "brpc"
+    etcdAddrs = ["http://127.0.0.1:2379"]
+    addrList = ["127.0.0.1:10000"]
+    balancer = "ketama"

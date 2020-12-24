@@ -1,0 +1,2 @@
+go run receive_logs.go #[multiple]
+go run emit_log.go

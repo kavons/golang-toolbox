@@ -1,0 +1,11 @@
+msgid "remind_title"
+msgstr "Congratulations!"
+
+msgid "remind_desc"
+msgstr "You are at <span style=\"color:#678fed\">HODLer Level %d</span> now and your new benefit is:"
+
+msgid "wthdraw_inc"
+msgstr "Withdrawal Limit Increased by %d%%"
+
+msgid "title"
+msgstr "HODLer Level %d"

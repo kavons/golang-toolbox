@@ -1,0 +1,48 @@
+1. protoc --go_out=. test.proto
+
+2. .proto => .pb.gos
+
+3. option go_package = "github.com/golang/protobuf/p";
+instead of
+   package example;
+
+1) protoc --go_out=. example/test.proto
+2) protoc --go_out=paths=source_relative:. example/test.prot-o
+
+[Note] paths=[import|source_relative]
+
+Attention!!!
+--proto_path=<> is very useful
+e.g.
+protoc --proto_path=example --go_out=pkg test.proto
+
+4. If a proto file specifies RPC services, protoc-gen-go can be instructed to generate code compatible with gRPC
+protoc --go_out=plugins=grpc,paths=source_relative:. example/test.proto
+
+[Note] plugins=grpc
+
+5. For grpc service
+1) For client, define interface and implement those functions
+2) For server, only define interface
+BTW, there is register function like 'RegisterAPIServiceServer'
+
+6. create client and server
+1) client
+conn, err := grpc.Dial(*address, grpc.WithInsecure()) // *grpc.ClientConn
+defer conn.Close()
+
+c := v1.NewToDoServiceClient(conn)
+
+ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+defer cancel()
+[Note] ctx is used to call server function
+
+2) server
+server := grpc.NewServer()
+v1.RegisterToDoServiceServer(server, v1API)
+
+listen, err := net.Listen("tcp", ":"+port)
+server.Serve(listen)
+
+7. HTTP <=> GRPC using github.com/grpc-ecosystem/grpc-gateway
+protoc --proto_path=api/proto/v1 --proto_path=third_party --grpc-gateway_out=logtostderr=true:pkg/api/v1 todo-service.proto

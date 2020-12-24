@@ -1,0 +1,59 @@
+msgid "user_status_Invalid"
+msgstr "Invalid"
+
+msgid "user_status_Expired"
+msgstr "Expired"
+
+msgid "user_status_Valid"
+msgstr "Valid"
+
+msgid "title"
+msgstr "Invite friends and get a 40% return!"
+
+msgid "new_title"
+msgstr "Invite friends and get a\n40% return!"
+
+msgid "description"
+msgstr "The more friends invited, the more rewards! No limit!"
+
+msgid "remarks"
+msgstr "Commission Rate: %s"
+
+msgid "invite_msg"
+msgstr "My friend, i'm using WON, an international compliance crypto exchange. Help me get 5 won Now."
+
+msgid "invite_msg_h5_new_user"
+msgstr "Thank you for registration. You've gained 1$ worth of Ŵ. Download WON now to get more invitation rewards."
+
+msgid "invite_msg_h5_old_user"
+msgstr "Registration successful! Use WON now to get more invitation rewards."
+
+msgid "invite_rule_line_1"
+msgstr "1. Inviter and invitee can get 1 USD worth of Ŵ respectively if invitee registers a valid account."
+
+msgid "invite_rule_line_2"
+msgstr "2. Inviter and invitee can get 5 USD worth of Ŵ respectively if invitee reaches HODLer Level 2 within 90 days."
+
+msgid "invite_rule_line_3"
+msgstr "3. Inviter and invitee can get 10 USD worth of Ŵ respectively if invitee reaches HODLer Level 3 within 90 days."
+
+msgid "invite_rule_line_4"
+msgstr "4. Inviter and invitee can get 15 USD worth of Ŵ respectively if invitee reaches HODLer Level 4 within 90 days."
+
+msgid "invite_rule_line_5"
+msgstr "5. Inviter and invitee can get 20 USD worth of Ŵ respectively if invitee reaches HODLer Level 5 within 90 days."
+
+msgid "invite_rule_line_6"
+msgstr "6. Inviter and invitee can get 50 USD worth of Ŵ respectively if invitee reaches HODLer Level 6 within 90 days."
+
+msgid "invite_rule_line_7"
+msgstr "7. The invitation benefit for both inviter and invitee starts to calculate from the moment invitee gets the valid account, and the calculation lasts for 90 natural days."
+
+msgid "invite_rule_line_8"
+msgstr "8. Both inviter and invitee can get benefit the moment invitee reaches a new level."
+
+msgid "invite_rule_line_9"
+msgstr "9. If the invitee is in violation of any rules, the invitation status of invitee will become invalid, thus the benefit will no longer be granted."
+
+msgid "invite_rule_line_10"
+msgstr "Any event adjustment will be subject to the latest update on 1WON.com, and the final interpretation right of the event belongs to 1WON.com."

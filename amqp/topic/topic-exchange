@@ -1,0 +1,2 @@
+go run receive_logs_topic.go "kern.*" "*.critical"
+go run emit_log_topic.go kern.critical "A critical kernel error"

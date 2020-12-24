@@ -1,0 +1,290 @@
+msgid "occ_0"
+msgstr "其他"
+
+msgid "occ_1"
+msgstr "客戶經理"
+
+msgid "occ_2"
+msgstr "會計"
+
+msgid "occ_3"
+msgstr "演員"
+
+msgid "occ_4"
+msgstr "管理員"
+
+msgid "occ_5"
+msgstr "分析員"
+
+msgid "occ_6"
+msgstr "建築師"
+
+msgid "occ_7"
+msgstr "藝術家"
+
+msgid "occ_8"
+msgstr "助理"
+
+msgid "occ_9"
+msgstr "律師"
+
+msgid "occ_10"
+msgstr "審計師"
+
+msgid "occ_11"
+msgstr "銀行家"
+
+msgid "occ_12"
+msgstr "咖啡師"
+
+msgid "occ_13"
+msgstr "調酒師"
+
+msgid "occ_14"
+msgstr "經紀人"
+
+msgid "occ_15"
+msgstr "商務拓展"
+
+msgid "occ_16"
+msgstr "企業主"
+
+msgid "occ_17"
+msgstr "木匠"
+
+msgid "occ_18"
+msgstr "出納員"
+
+msgid "occ_19"
+msgstr "首席執行官"
+
+msgid "occ_20"
+msgstr "首席財務官"
+
+msgid "occ_21"
+msgstr "首席運營官"
+
+msgid "occ_22"
+msgstr "首席風險官"
+
+msgid "occ_23"
+msgstr "首席技術官"
+
+msgid "occ_24"
+msgstr "土木工程師"
+
+msgid "occ_25"
+msgstr "清潔工"
+
+msgid "occ_26"
+msgstr "建築工人"
+
+msgid "occ_27"
+msgstr "顧問"
+
+msgid "occ_28"
+msgstr "承包商"
+
+msgid "occ_29"
+msgstr "廚師"
+
+msgid "occ_30"
+msgstr "法律顧問"
+
+msgid "occ_31"
+msgstr "客服"
+
+msgid "occ_32"
+msgstr "數據科學家"
+
+msgid "occ_33"
+msgstr "牙科醫生"
+
+msgid "occ_34"
+msgstr "設計師"
+
+msgid "occ_35"
+msgstr "導演"
+
+msgid "occ_36"
+msgstr "司機"
+
+msgid "occ_37"
+msgstr "電工"
+
+msgid "occ_38"
+msgstr "演藝人員"
+
+msgid "occ_39"
+msgstr "農夫"
+
+msgid "occ_40"
+msgstr "財務顧問"
+
+msgid "occ_41"
+msgstr "財務分析師"
+
+msgid "occ_42"
+msgstr "創始人"
+
+msgid "occ_43"
+msgstr "自由職業"
+
+msgid "occ_44"
+msgstr "信息技術"
+
+msgid "occ_45"
+msgstr "保險代理人"
+
+msgid "occ_46"
+msgstr "實習生"
+
+msgid "occ_47"
+msgstr "投資者"
+
+msgid "occ_48"
+msgstr "工人"
+
+msgid "occ_49"
+msgstr "景觀設計"
+
+msgid "occ_50"
+msgstr "執法人員"
+
+msgid "occ_51"
+msgstr "救生員"
+
+msgid "occ_52"
+msgstr "主管"
+
+msgid "occ_53"
+msgstr "總經理"
+
+msgid "occ_54"
+msgstr "市場行銷人員"
+
+msgid "occ_55"
+msgstr "機械師"
+
+msgid "occ_56"
+msgstr "軍人"
+
+msgid "occ_57"
+msgstr "礦工"
+
+msgid "occ_58"
+msgstr "音樂家"
+
+msgid "occ_59"
+msgstr "網路工程師"
+
+msgid "occ_60"
+msgstr "護士"
+
+msgid "occ_61"
+msgstr "辦公室經理"
+
+msgid "occ_62"
+msgstr "運營經理"
+
+msgid "occ_63"
+msgstr "合夥人"
+
+msgid "occ_64"
+msgstr "私人教練"
+
+msgid "occ_65"
+msgstr "藥劑師"
+
+msgid "occ_66"
+msgstr "攝影師"
+
+msgid "occ_67"
+msgstr "內科醫生"
+
+msgid "occ_68"
+msgstr "飛行員"
+
+msgid "occ_69"
+msgstr "水管工"
+
+msgid "occ_70"
+msgstr "基金經理"
+
+msgid "occ_71"
+msgstr "總統"
+
+msgid "occ_72"
+msgstr "校長"
+
+msgid "occ_73"
+msgstr "製作人"
+
+msgid "occ_74"
+msgstr "產品經理"
+
+msgid "occ_75"
+msgstr "教授"
+
+msgid "occ_76"
+msgstr "程式經理"
+
+msgid "occ_77"
+msgstr "專案經理"
+
+msgid "occ_78"
+msgstr "物業經理"
+
+msgid "occ_79"
+msgstr "心理學家"
+
+msgid "occ_80"
+msgstr "房地產經紀人"
+
+msgid "occ_81"
+msgstr "招聘員"
+
+msgid "occ_82"
+msgstr "研究員"
+
+msgid "occ_83"
+msgstr "零售"
+
+msgid "occ_84"
+msgstr "銷售員"
+
+msgid "occ_85"
+msgstr "科學家"
+
+msgid "occ_86"
+msgstr "秘書"
+
+msgid "occ_87"
+msgstr "軟體工程師"
+
+msgid "occ_88"
+msgstr "學生"
+
+msgid "occ_89"
+msgstr "系統工程師"
+
+msgid "occ_90"
+msgstr "教師"
+
+msgid "occ_91"
+msgstr "技術員"
+
+msgid "occ_92"
+msgstr "交易員"
+
+msgid "occ_93"
+msgstr "副總裁"
+
+msgid "occ_94"
+msgstr "服務生"
+
+msgid "occ_95"
+msgstr "網站設計師"
+
+msgid "occ_96"
+msgstr "作家"

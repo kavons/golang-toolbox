@@ -1,0 +1,2 @@
+go run new_task.go #[multiple]
+go run worker.go

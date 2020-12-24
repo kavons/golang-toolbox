@@ -1,0 +1,5 @@
+msgid "db_error"
+msgstr "System Error, please try again later"
+
+msgid "success"
+msgstr "Success"

@@ -1,0 +1,26 @@
+msgid "first_deposit_title"
+msgstr "首充獎勵"
+
+msgid "first_deposit_desc"
+msgstr "立刻開始首充，獲取最高價值$20的Ŵ獎勵。"
+
+msgid "cumulative_promotion_desc"
+msgstr "累計充值贈送火熱進行中，50個Ŵ等你來拿。"
+
+msgid "cumulative_before_promotion_desc"
+msgstr "限時活動開始，充值獲得獎勵。"
+
+msgid "cumulative_promotion_reward_desc"
+msgstr "活動結束後獎勵%sŴ"
+
+msgid "cumulative_promotion_countdown_desc"
+msgstr "活動%s後開始"
+
+msgid "cumulative_promotion_incentive_desc"
+msgstr "再累計存入$%s的數字貨幣，就可多获得%s個Ŵ。"
+
+msgid "acc_deposit_title"
+msgstr "累計充值贈送火熱進行中！"
+
+msgid "acc_deposit_desc"
+msgstr "在活動期間內充值，最多可以獲得50個Ŵ的獎勵。"

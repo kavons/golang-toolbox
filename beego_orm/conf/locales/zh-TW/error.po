@@ -1,0 +1,645 @@
+msgid "err_10009"
+msgstr "client_id錯誤獲取不到app信息"
+
+msgid "err_11000"
+msgstr "支付出錯"
+
+msgid "err_11003"
+msgstr "支付出錯"
+
+msgid "err_11008"
+msgstr "參數tx_id缺失"
+
+msgid "err_11009"
+msgstr "訂單狀態錯誤"
+
+msgid "err_10300"
+msgstr "登錄失敗"
+
+msgid "err_10301"
+msgstr "您還沒有登錄"
+
+msgid "err_10302"
+msgstr "郵件發送失敗"
+
+msgid "err_10303"
+msgstr "手機號碼不正確"
+
+msgid "err_10304"
+msgstr "短信驗證碼發送失敗"
+
+msgid "err_10305"
+msgstr "短信驗證碼已經使用"
+
+msgid "err_10306"
+msgstr "簡訊驗證失敗，請再試一次"
+
+msgid "err_10307"
+msgstr "系統錯誤, 手機驗證激活失敗, 請稍後重試"
+
+msgid "err_10308"
+msgstr "系統錯誤, KYC更新失敗, 請稍後重試"
+
+msgid "err_10401"
+msgstr "郵箱格式不對"
+
+msgid "err_10402"
+msgstr "密碼必須是大小写字母大小寫字母+數字+特殊字符, 6-64位"
+
+msgid "err_10403"
+msgstr "郵箱已經注冊"
+
+msgid "err_10404"
+msgstr "系統加密錯誤, 請重試"
+
+msgid "err_10405"
+msgstr "數據庫錯誤, 注冊失敗"
+
+msgid "err_10501"
+msgstr "用戶不存在"
+
+msgid "err_10502"
+msgstr "密碼錯誤"
+
+msgid "err_10601"
+msgstr "用户還未登錄"
+
+msgid "err_10602"
+msgstr "授權key驗證失敗"
+
+msgid "err_20000"
+msgstr "必要參數不合法"
+
+msgid "err_20001"
+msgstr "第三方應用不存在"
+
+msgid "err_20002"
+msgstr "數據更新失敗"
+
+msgid "err_20003"
+msgstr "生成jwt token失敗"
+
+msgid "err_20004"
+msgstr "解析jwt token失敗"
+
+msgid "err_20005"
+msgstr "參數first_name缺失"
+
+msgid "err_20006"
+msgstr "參數last_name缺失"
+
+msgid "err_20007"
+msgstr "參數birth_date缺失"
+
+msgid "err_20008"
+msgstr "參數client_id缺失"
+
+msgid "err_20009"
+msgstr "參數tx_id缺失"
+
+msgid "err_20010"
+msgstr "ip錯誤不能調用該peatio接口"
+
+msgid "err_20011"
+msgstr "參數country_code缺失"
+
+msgid "err_20012"
+msgstr "參數username缺失"
+
+msgid "err_20013"
+msgstr "參數password不合法"
+
+msgid "err_20014"
+msgstr "參數public_key缺失"
+
+msgid "err_20015"
+msgstr "參數sign缺失"
+
+msgid "err_20016"
+msgstr "參數pin_code缺失"
+
+msgid "err_20017"
+msgstr "更新用戶公鑰失敗"
+
+msgid "err_20018"
+msgstr "用戶公鑰獲取失敗"
+
+msgid "err_20019"
+msgstr "客戶端公鑰解密失敗"
+
+msgid "err_20020"
+msgstr "服務端私鑰解密失敗"
+
+msgid "err_20021"
+msgstr "更新用戶PIN Code失敗"
+
+msgid "err_20022"
+msgstr "用户PIN Code獲取失敗"
+
+msgid "err_20023"
+msgstr "國家碼不對"
+
+msgid "err_20024"
+msgstr "手機號碼格式錯誤"
+
+msgid "err_20025"
+msgstr "手機驗證碼發送失敗"
+
+msgid "err_20026"
+msgstr "驗證碼已過期，請重新獲取一個"
+
+msgid "err_20027"
+msgstr "簡訊驗證失敗，請再試一次"
+
+msgid "err_20028"
+msgstr "參數pin_token缺失"
+
+msgid "err_20029"
+msgstr "參數user_id缺失"
+
+msgid "err_20030"
+msgstr "參數sms_code缺失"
+
+msgid "err_20031"
+msgstr "參數pay_method缺失或者無效"
+
+msgid "err_20032"
+msgstr "參數fingerprint缺失"
+
+msgid "err_20033"
+msgstr "客戶端公鑰加密失敗"
+
+msgid "err_20034"
+msgstr "參數old_pin_code缺失"
+
+msgid "err_20035"
+msgstr "參數new_pin_code缺失"
+
+msgid "err_20036"
+msgstr "無法使jwt token失效"
+
+msgid "err_20037"
+msgstr "參數mesh缺失"
+
+msgid "err_20038"
+msgstr "參數app_sign缺失"
+
+msgid "err_20039"
+msgstr "參數device_id缺失"
+
+msgid "err_20040"
+msgstr "參數sdk缺失"
+
+msgid "err_20041"
+msgstr "參數version缺失"
+
+msgid "err_20042"
+msgstr "參數flavor缺失"
+
+msgid "err_20043"
+msgstr "緩存出現異常"
+
+msgid "err_20044"
+msgstr "參數refresh_token缺失"
+
+msgid "err_20045"
+msgstr "更新用戶pin salt失敗"
+
+msgid "err_20046"
+msgstr "生成pin code MD5失敗"
+
+msgid "err_20047"
+msgstr "非法的內部訪問地址"
+
+msgid "err_20048"
+msgstr "數據庫查詢失敗"
+
+msgid "err_20049"
+msgstr "參數activation_code缺失"
+
+msgid "err_20050"
+msgstr "參數app_uid缺失"
+
+msgid "err_20051"
+msgstr "參數trans_id缺失"
+
+msgid "err_20052"
+msgstr "rabbitmq發送消息失敗"
+
+msgid "err_20053"
+msgstr "參數pee缺失"
+
+msgid "err_20054"
+msgstr "抱歉"
+
+msgid "err_20060"
+msgstr "没有找到数据"
+
+msgid "err_21001"
+msgstr "用戶注冊失敗"
+
+msgid "err_21002"
+msgstr "用户信息丢失"
+
+msgid "err_21003"
+msgstr "非法的美國州地址"
+
+msgid "err_21004"
+msgstr "用戶信息查詢失敗"
+
+msgid "err_21005"
+msgstr "用戶認證失敗"
+
+msgid "err_21006"
+msgstr "簡訊驗證失敗，請再試一次"
+
+msgid "err_21007"
+msgstr "用戶不存在"
+
+msgid "err_21008"
+msgstr "請輸入名！"
+
+msgid "err_21009"
+msgstr "請輸入姓！"
+
+msgid "err_21010"
+msgstr "生日輸入錯誤"
+
+msgid "err_21011"
+msgstr "無法生成invite token"
+
+msgid "err_21012"
+msgstr "invite token驗證失敗"
+
+msgid "err_21013"
+msgstr "錯誤的鏈接，繼續註冊不會獲得邀請獎勵"
+
+msgid "err_21014"
+msgstr "無法邀請自己"
+
+msgid "err_21015"
+msgstr "已經被邀請過"
+
+msgid "err_21016"
+msgstr "無法生成邀請鏈接"
+
+msgid "err_21017"
+msgstr "refresh token驗證失敗"
+
+msgid "err_21018"
+msgstr "SMS驗證錯誤過多，請稍後再試。"
+
+msgid "err_21019"
+msgstr "該電話號碼存在安全風險，爲了你的安全我們凍結了這個號碼，請聯系客服認證"
+
+msgid "err_21020"
+msgstr "SMS驗證異常，請聯繫客服。"
+
+msgid "err_21021"
+msgstr "SMS发送次数過多，請稍後再試。"
+
+msgid "err_21022"
+msgstr "該電話號碼出現頻繁登錄，爲了你的安全我們凍結了這個號碼，請聯系客服認證"
+
+msgid "err_21023"
+msgstr "嘗試次數過多，請稍後嘗試"
+
+msgid "err_21024"
+msgstr "該設備使用過多的電話號碼，爲了安全我們凍封了這臺設備该设备，請聯系客服認證"
+
+msgid "err_21025"
+msgstr "對不起，您還未滿18周歲，爲了保護您的權利，我們暫時不能爲您提供服務"
+
+msgid "err_21026"
+msgstr "Sorry, reCaptcha Verification Needed"
+
+msgid "err_21027"
+msgstr "SMS发送次数過多，請聯繫客服。"
+
+msgid "err_22001"
+msgstr "第三方應用信息查詢失敗"
+
+msgid "err_22002"
+msgstr "第三方用戶認證失敗"
+
+msgid "err_22003"
+msgstr "第三方用户與當前登錄用戶不一致"
+
+msgid "err_23001"
+msgstr "訂單查詢失敗"
+
+msgid "err_23002"
+msgstr "訂單狀態錯誤"
+
+msgid "err_23003"
+msgstr "訂單扣款失敗"
+
+msgid "err_23004"
+msgstr "PIN碼不正確！"
+
+msgid "err_23005"
+msgstr "指紋支付sign驗證失敗"
+
+msgid "err_23006"
+msgstr "第三方籤名不合法"
+
+msgid "err_23007"
+msgstr "第三方標識與訂單包含的不同"
+
+msgid "err_23008"
+msgstr "抱歉，我們無法在您所在的地區提供服務。當我們爲您的地區添加支持時，我們會通知您"
+
+msgid "err_23009"
+msgstr "抱歉，我們無法爲您的賬戶提供服務"
+
+msgid "err_23010"
+msgstr "不支持充值/提現，爲了符合《歐盟通用數據保護條例》，您將會被限制數字貨幣充值和提現，具體原因可以看here"
+
+msgid "err_23011"
+msgstr "請在付款前先通過身份驗證。"
+
+msgid "err_24001"
+msgstr "簡訊驗證失敗，請再試一次"
+
+msgid "err_24002"
+msgstr "無法生成pin token"
+
+msgid "err_24003"
+msgstr "pin token驗證失敗"
+
+msgid "err_24004"
+msgstr "不支持記得密碼的情況下，未驗證手機號，無法重置支付密碼"
+
+msgid "err_24005"
+msgstr "不記得支付密碼的情況下，未驗證姓名和生日，無法重置支付密码"
+
+msgid "err_24006"
+msgstr "無法生成fingerprint token"
+
+msgid "err_24007"
+msgstr "指纹驗證失敗，可以嘗試重新開啓指紋"
+
+msgid "err_24008"
+msgstr "支付密碼未設置過，無法重置"
+
+msgid "err_24009"
+msgstr "指紋未設置過"
+
+msgid "err_24010"
+msgstr "新舊PIN碼不能相同！"
+
+msgid "err_24011"
+msgstr "PIN碼錯誤次數過多，已暫停驗證，請稍後再試!"
+
+msgid "err_24012"
+msgstr "發送短信sign驗證失敗"
+
+msgid "err_24013"
+msgstr "該電話修改PIN過於頻繁，爲了你的安全我們凍結了這個號碼，請聯系客服認證"
+
+msgid "err_24014"
+msgstr "無法生成transaction token"
+
+msgid "err_24015"
+msgstr "交易pin code驗證模式不合法"
+
+msgid "err_24016"
+msgstr "transaction token驗證失敗"
+
+msgid "err_24017"
+msgstr "請輸入pin code或者指紋進行驗證"
+
+msgid "err_24018"
+msgstr "無法生成pay token"
+
+msgid "err_25001"
+msgstr "比特幣地址不合法"
+
+msgid "err_25002"
+msgstr "地址不合法"
+
+msgid "err_25003"
+msgstr "生成比特幣地址失敗"
+
+msgid "err_25004"
+msgstr "生成比特幣地址下标错误"
+
+msgid "err_26001"
+msgstr "ip錯誤不能調用該增加版本的接口"
+
+msgid "err_26002"
+msgstr "找不到需要升級的版本信息"
+
+msgid "err_26003"
+msgstr "找不到需要升級的最新版本信息"
+
+msgid "err_26004"
+msgstr "添加新版本失敗"
+
+msgid "err_26005"
+msgstr "添加強制升級版本失敗"
+
+msgid "err_26006"
+msgstr "版本需要強制升級"
+
+msgid "err_26007"
+msgstr "版本格式錯誤"
+
+msgid "err_27001"
+msgstr "激活碼數目過多或過少"
+
+msgid "err_27002"
+msgstr "激活碼無效"
+
+msgid "err_27003"
+msgstr "已經激活"
+
+msgid "err_28001"
+msgstr "新用戶注冊激勵失敗"
+
+msgid "err_28002"
+msgstr "新用戶注冊起始時間設置錯誤"
+
+msgid "err_29001"
+msgstr "當前currency都不可用"
+
+msgid "err_29002"
+msgstr "無法查詢到won的美元價格"
+
+msgid "err_29003"
+msgstr "市場中賣單太少"
+
+msgid "err_29004"
+msgstr "賬戶餘額不足"
+
+msgid "err_29005"
+msgstr "訂單創建失敗"
+
+msgid "err_29006"
+msgstr "訂單沒有按時完成交易"
+
+msgid "err_29007"
+msgstr "轉賬失敗"
+
+msgid "err_29008"
+msgstr "無法查詢到btc的美元價格"
+
+msgid "err_29009"
+msgstr "無法查询到won的btc的價格"
+
+msgid "err_29010"
+msgstr "無法查询到top的won價格"
+
+msgid "err_30001"
+msgstr "保存上傳的身份證件照片失敗"
+
+msgid "err_30002"
+msgstr "用戶上傳的信息丟失"
+
+msgid "err_30003"
+msgstr "用戶上傳的照片MD5對比失敗"
+
+msgid "err_20061"
+msgstr "轉爲結構體失敗"
+
+msgid "err_20062"
+msgstr "轉爲json失敗"
+
+msgid "err_20063"
+msgstr "動作已經確認"
+
+msgid "err_20064"
+msgstr "數據插入失敗"
+
+msgid "err_20065"
+msgstr "無效的動作類型"
+
+msgid "err_20066"
+msgstr "無效的登陸歷史記錄類型"
+
+msgid "err_50001"
+msgstr "無效的籤名信息"
+
+msgid "err_50002"
+msgstr "無法生成security token"
+
+msgid "err_50003"
+msgstr "security toke驗證失敗"
+
+msgid "err_50004"
+msgstr "郵箱格式不正確"
+
+msgid "err_50005"
+msgstr "郵箱驗證碼發送失敗"
+
+msgid "err_50006"
+msgstr "無法生成post security token"
+
+msgid "err_50007"
+msgstr "post security toke驗證失敗"
+
+msgid "err_50008"
+msgstr "PIN碼為空"
+
+msgid "err_50009"
+msgstr "短信驗證碼為空"
+
+msgid "err_50010"
+msgstr "安全策略不匹配"
+
+msgid "err_50011"
+msgstr "KYC1不能為空"
+
+msgid "err_50012"
+msgstr "身份信息不匹配"
+
+msgid "err_50013"
+msgstr "登錄密碼為空"
+
+msgid "err_50014"
+msgstr "登錄密碼錯誤"
+
+msgid "err_50015"
+msgstr "登錄密碼已經設置"
+
+msgid "err_50016"
+msgstr "登錄密碼未設置"
+
+msgid "err_50017"
+msgstr "業務不適用"
+
+msgid "err_60001"
+msgstr "已綁定谷歌驗證"
+
+msgid "err_60002"
+msgstr "谷歌驗證碼不正確"
+
+msgid "err_60003"
+msgstr "需要先創建谷歌驗證"
+
+msgid "err_60004"
+msgstr "未綁定谷歌驗證"
+
+msgid "err_60005"
+msgstr "谷歌驗證已關閉"
+
+msgid "err_60006"
+msgstr "需要先創建谷歌驗證"
+
+msgid "err_60007"
+msgstr "需要先綁定谷歌驗證"
+
+msgid "err_60008"
+msgstr "谷歌驗證碼為空"
+
+msgid "err_70001"
+msgstr "密碼簽名驗證失敗"
+
+msgid "err_70002"
+msgstr "登錄密碼驗證錯誤過多，請稍後再試"
+
+msgid "err_70003"
+msgstr "登錄密碼驗證異常，請聯繫客服"
+
+msgid "err_80001"
+msgstr "提幣地址白名單未開啟"
+
+msgid "err_80002"
+msgstr "提幣地址白名單已開啟"
+
+msgid "err_80003"
+msgstr "不在提幣地址列表中"
+
+msgid "err_80004"
+msgstr "有不符合添加條件的ID"
+
+msgid "err_80005"
+msgstr "有不符合刪除條件的ID"
+
+msgid "err_90001"
+msgstr "刪除 API Key 失敗"
+
+msgid "err_90002"
+msgstr "IP地址無效"
+
+msgid "err_90003"
+msgstr "最多只能創建5組API Key"
+
+msgid "err_90004"
+msgstr "每個密鑰最多綁定10個IP"
+
+msgid "err_90005"
+msgstr "開啟提幣許可權需先綁定IP地址"
+
+msgid "err_91001"
+msgstr "一個交易對只能設置10個價格報警"
+
+
+msgid "err_91002"
+msgstr "價格告警已關閉"
+
+msgid "err_92001"
+msgstr "支付令牌不能為空"
+
+msgid "err_92002"
+msgstr "支付令牌驗證失敗"

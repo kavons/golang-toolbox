@@ -1,0 +1,2 @@
+msgid "not_login"
+msgstr "要先登錄"

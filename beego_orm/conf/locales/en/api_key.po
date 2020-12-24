@@ -1,0 +1,8 @@
+msgid "api_key_created"
+msgstr "Your API Key with the note of %s has been created successfully. If this wasn't you,please change your PIN-Code immediately."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Abnormal"
+msgstr "Abnormal"

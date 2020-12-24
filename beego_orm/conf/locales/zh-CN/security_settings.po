@@ -1,0 +1,126 @@
+
+msgid "reset_pin_forgotten_desc"
+msgstr "修改PIN码"
+
+msgid "reset_pin_forgotten_v2_desc"
+msgstr "修改PIN码"
+
+msgid "reset_pin_remembered_desc"
+msgstr "修改PIN码"
+
+msgid "tfa_bind_desc"
+msgstr "绑定谷歌验证器"
+
+msgid "tfa_change_desc"
+msgstr "修改谷歌身份验证器"
+
+msgid "tfa_enable_desc"
+msgstr "开启谷歌验证器验证"
+
+msgid "tfa_disable_desc"
+msgstr "关闭谷歌验证器验证"
+
+msgid "security_setting_state_success"
+msgstr "成功"
+
+msgid "set_pwd_desc"
+msgstr "设置登录密码"
+
+msgid "change_pwd_desc"
+msgstr "修改登录密码"
+
+msgid "cancel_pwd_desc"
+msgstr "取消登录密码"
+
+msgid "reset_pwd_desc"
+msgstr "重置登录密码"
+
+msgid "del_auth_dev_desc"
+msgstr "删除授权设备"
+
+msgid "new_dev_auth_desc"
+msgstr "新设备授权"
+
+msgid "security_level_tips_low"
+msgstr "强烈建议你开启 %s 以保护你的账号安全。"
+
+msgid "security_level_tips_medium"
+msgstr "建议你开启 %s 以进一步保护你的账号安全。"
+
+msgid "security_level_tips_high"
+msgstr "您的账号很安全，请继续保护好您的账号。"
+
+msgid "security_scan_tips_line1"
+msgstr "个可有优化项"
+msgid "security_scan_tips_line2_red"
+msgstr "您的账号安全性很低"
+msgid "security_scan_tips_line2_yellow"
+msgstr "您的账号安全有待加强"
+msgid "security_scan_tips_line2_green"
+msgstr "您的账号非常安全"
+
+msgid "security_level_item_kyc3"
+msgstr "身份验证"
+msgid "security_level_item_pwd"
+msgstr "登录密码"
+msgid "security_level_item_tfa"
+msgstr "谷歌身份验证器"
+msgid "security_level_item_waw"
+msgstr "提币白名单"
+msgid "security_level_item_waw_v2"
+msgstr "白名单和地址管理"
+msgid "security_level_item_passcode"
+msgstr "本地密码"
+msgid "security_level_item_pin6"
+msgstr "PIN码"
+
+msgid "security_level_item_kyc3_desc"
+msgstr "提高提币限额"
+msgid "security_level_item_pwd_desc"
+msgstr "登录时2FA"
+msgid "security_level_item_tfa_desc"
+msgstr "提币时2FA"
+msgid "security_level_item_waw_desc"
+msgstr "开启白名单后，您的账号仅能提现到白名单内的地址"
+msgid "security_level_item_passcode_desc"
+msgstr "离开5分钟后再进入，需要使用本地密码"
+msgid "security_level_item_pin6_desc"
+msgstr "6位数字更安全"
+
+msgid "security_level_status_tfa_not_linked"
+msgstr "未綁定"
+msgid "security_level_status_tfa_disabled"
+msgstr "未開啟"
+msgid "security_level_status_tfa_linked"
+msgstr "已開啟"
+msgid "security_level_status_waw_true"
+msgstr "已开启"
+msgid "security_level_status_waw_false"
+msgstr "关闭"
+msgid "security_level_status_pwd_true"
+msgstr "開啟"
+msgid "security_level_status_pwd_false"
+msgstr "關閉"
+msgid "security_level_status_passcode_true"
+msgstr "已開啟"
+msgid "security_level_status_passcode_false"
+msgstr "未開啟"
+msgid "security_level_status_pin6_true"
+msgstr "已设置"
+msgid "security_level_status_pin6_false"
+msgstr "未升级"
+
+msgid "security_level_status_low"
+msgstr "低"
+
+msgid "security_level_status_medium"
+msgstr "中"
+
+msgid "security_level_status_high"
+msgstr "高"
+
+msgid "enable_waw_desc"
+msgstr "开启提币白名单"
+
+msgid "disable_waw_desc"
+msgstr "关闭提币白名单"

@@ -1,0 +1,11 @@
+msgid "success"
+msgstr "Login Success"
+
+msgid "push_code_title"
+msgstr "Verification Code"
+
+msgid "push_code_content"
+msgstr "Enter this verification code on the website to sign in."
+
+msgid "register_reward_desc"
+msgstr "You received a reward of %s Ŵ!"

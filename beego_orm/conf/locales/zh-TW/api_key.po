@@ -1,0 +1,8 @@
+msgid "api_key_created"
+msgstr "您備註為%s的API Key已創建成功。若非本人操作，請及時修改PIN碼。"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Abnormal"
+msgstr "異常"

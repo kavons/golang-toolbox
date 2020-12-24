@@ -1,0 +1,5 @@
+msgid "subject_bind_email"
+msgstr "You are attempting to link email verification."
+
+msgid "body_bind_email"
+msgstr "Dear User,\r\n\r\nWON Security Settings’ Verification Code: %s. You are attempting to link email verification. The verification code will expire in 30 minutes.\r\n\r\nThe verification code is only valid for the official WON website. Please do not input the code anywhere if it was not issued by you.\r\n\r\nTo avoid any frauds, please do not share your account or verification code to any third party websites.\r\n\r\nWON Team\r\n\r\nhttps://www.1won.com"

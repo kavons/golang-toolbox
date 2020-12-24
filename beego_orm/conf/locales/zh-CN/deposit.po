@@ -1,0 +1,23 @@
+msgid "first_deposit_title"
+msgstr "首充奖励"
+
+msgid "first_deposit_desc"
+msgstr "第一笔到账WON账号的数字货币，充值额在$50 以上时，WON赠送其等价美金的20% 的Ŵ。"
+
+msgid "cumulative_promotion_desc"
+msgstr "累计充值赠送火热进行中，在活动期间内充值最高可获赠送价值$25的Ŵ。"
+
+msgid "cumulative_before_promotion_desc"
+msgstr "限时活动开始，充值获得奖励。"
+
+msgid "cumulative_promotion_countdown_desc"
+msgstr "活动%s后开始"
+
+msgid "cumulative_promotion_reward_desc"
+msgstr "已经获得价值$%s的Ŵ"
+
+msgid "cumulative_promotion_incentive_desc"
+msgstr "再累计存入$%s的数字货币，就可多获得$%s的Ŵ。"
+
+msgid "cumulative_promotion_rewarding_desc"
+msgstr "达到充值$%s条件，奖励即将发放。"

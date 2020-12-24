@@ -1,0 +1,59 @@
+msgid "user_status_Invalid"
+msgstr "无效"
+
+msgid "user_status_Expired"
+msgstr "过期"
+
+msgid "user_status_Valid"
+msgstr "有效"
+
+msgid "title"
+msgstr "Invite friends and get a 40% return!"
+
+msgid "new_title"
+msgstr "Invite friends and get a\n40% return!"
+
+msgid "description"
+msgstr "The more friends invited, the more rewards! No limit!"
+
+msgid "remarks"
+msgstr "Commission Rate: %s"
+
+msgid "invite_msg"
+msgstr "My friend, i'm using WON, an international compliance crypto exchange. Help me get 5 won Now."
+
+msgid "invite_msg_h5_new_user"
+msgstr "感謝你的注册，你已经获得了$1 Ŵ的奖励，立刻下载并使用WON，获取更多的邀请奖励。"
+
+msgid "invite_msg_h5_old_user"
+msgstr "你已经成功注册，立刻使用WON，获取更多的邀请奖励。"
+
+msgid "invite_rule_line_1"
+msgstr "1.被邀请人成功注册账号，邀请人和被邀请人各获得$1 Ŵ。"
+
+msgid "invite_rule_line_2"
+msgstr "2.被邀请人成功注册90天內达到HODLer 2级，邀请人和被邀请人各获得$5 Ŵ。"
+
+msgid "invite_rule_line_3"
+msgstr "3.被邀请人成功注册90天內达到HODLer 3级，邀请人和被邀请人各获得$10 Ŵ。"
+
+msgid "invite_rule_line_4"
+msgstr "4.被邀请人成功注册90天內达到HODLer 4级，邀请人和被邀请人各获得$15 Ŵ。"
+
+msgid "invite_rule_line_5"
+msgstr "5.被邀请人成功注册90天內达到HODLer 5级，邀请人和被邀请人各获得$20 Ŵ。"
+
+msgid "invite_rule_line_6"
+msgstr "6.被邀请人成功注册90天內达到HODLer 6级，邀请人和被邀请人各获得$50 Ŵ。"
+
+msgid "invite_rule_line_7"
+msgstr "7.邀请人享受好友HODler升级奖励有效时长90个自然日，以被邀请人实际注册的时间开始进行计算。"
+
+msgid "invite_rule_line_8"
+msgstr "8.被邀请人达到相应HODLer等級，邀请人和被邀请人立刻获得该等级的邀请奖励。"
+
+msgid "invite_rule_line_9"
+msgstr "9.如被邀请人违反相应的规则，被邀请人的邀请状态变成【无效】，无效账号升级HODLer等级产生的奖励费用不会发放"
+
+msgid "invite_rule_line_10"
+msgstr "活动如有调整，以1WON.com更新为准，最终解释权归1WON.com。"

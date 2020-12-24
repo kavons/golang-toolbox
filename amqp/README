@@ -1,0 +1,18 @@
+知识要点： 3-3-4-3
+3: publisher - broker - consumer
+3: exchange - binding - queue
+4: [default exchange] - fanout exchange - direct exchange - topic exchange - headers exchange
+3: exchange - durable
+   queue - durable
+   message -persistent
+
+1. hello_world
+default exchange
+2. work_queues
+default exchange
+3. pub_sub
+fanout exchange
+4. routing
+direct exchange
+5. topic
+topic exchange

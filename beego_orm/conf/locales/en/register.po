@@ -1,0 +1,5 @@
+msgid "success"
+msgstr "Register Success"
+
+msgid "app_id_empty"
+msgstr "APP ID can't empty"
