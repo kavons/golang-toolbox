@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/kavons/golang-toolbox"
+	"github.com/kavons/golang-toolbox/timing"
 )
 
 func main() {
-	fmt.Println(golang-toolbox.OneSecond)
+	fmt.Println(timing.Second)
 }
